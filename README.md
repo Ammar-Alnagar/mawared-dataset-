@@ -1,6 +1,6 @@
-# mawared-dataset-
 
-"""
+
+
 "dialogue": [
             {
                 "from": "human",
@@ -13,5 +13,4 @@
             }
         ]
 
-"""
 sharegpt structure 
